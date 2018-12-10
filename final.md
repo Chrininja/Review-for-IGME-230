@@ -110,8 +110,13 @@ What do the following stand for?
 - https://www.w3.org/TR/2018/CR-selectors-3-20180130/
 
 1. Write a CSS rule that will select an element that has an id value of "content", and give it a background color of green.
+```css
+#content{
+	background-color:#00FF00;
+```
 
 2. Write a CSS rule that will select all elements of class "important", and give them a font size color of 16 points.
+
 
 3. Write a CSS rule that will select only those links on the page that have an `href` value equal to `http://www.google.com`
 
